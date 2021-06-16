@@ -1,0 +1,47 @@
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: #61122f;
+	font-family: 'Oxygen', sans-serif;
+}
+#header-nav {
+	background-color: black;
+	border-radius: 0;
+	border: 0;
+		}
+
+/*BACKGROUNG COLOR*/
+ #p{
+	background-color: black;
+	padding-top: 0;
+	padding-left: 3;
+	margin: 5,5,5,5 ;
+	text-color: red ;
+	font-size: 20px;
+	text-align: center;
+}
+h4 {
+	text-align: center;
+	font-family: bold;
+
+}
+
+
+
+h1 {
+	/*MAIN TITLE*/
+	font-family: 'Lora', serif;
+  color: #557c3e;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+#menu{
+	text-align: center;
+	text-shadow: aqua;
+	text-transform: uppercase;
+}
